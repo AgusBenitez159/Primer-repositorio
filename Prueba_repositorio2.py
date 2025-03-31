@@ -1,0 +1,6 @@
+nombre = input("Ingrese su nombre: ")
+apellido = input("Ingrese su apellido: ")
+oficio = input("Ingrese su oficio: ")
+estadocivil = input("Ingrese su estado civil: ")
+edad = input("Ingrese su edad: ")
+print(f"¡Hola {nombre} {apellido} con oficio {oficio} de estado civil {estadocivil} de {edad} años de edad!")
